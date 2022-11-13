@@ -95,7 +95,7 @@ function Final(){
                             <ArrowBackIcon border="1px solid #ccc" fontSize="20px" borderRadius="2px"/>
                             <Text>Today</Text>
                             <ArrowForwardIcon border="1px solid #ccc" fontSize="20px" borderRadius="2px"/>
-                            <Text fontSize="24px" as="b">Oct 2 - 8, 2022</Text>
+                            <Text fontSize="24px" as="b">Nov 7- 16, 2022</Text>
                         </Flex>
                         <Flex justifyContent="space-evenly" w="40%" alignItems="center">
                             <Text>GMT+5:30</Text>
